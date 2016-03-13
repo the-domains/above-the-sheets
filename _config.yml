@@ -1,0 +1,28 @@
+name: Above the sheets
+favicon: null
+layout_spectrum: 0.23191977897658944
+typography_spectrum: 0.6036630119197071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9265615697950125
+  lightness: 0.032920392230153084
+  saturation: 0.6800539409741759
+  rhythmicContrast: 0.37746579805389047
+purpose: []
