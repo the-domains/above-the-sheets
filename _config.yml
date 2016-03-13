@@ -1,7 +1,7 @@
 name: Above the sheets
 favicon: null
-layout_spectrum: 0.23191977897658944
-typography_spectrum: 0.6036630119197071
+layout_spectrum: 0.25368
+typography_spectrum: 0.25368
 title: Above the sheets
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#cacbcf'
+    - '#484b50'
+    - '#6a6f75'
+    - '#dc570c'
+    - '#fe6f2d'
   brandStrength: 0.9265615697950125
   lightness: 0.032920392230153084
   saturation: 0.6800539409741759
